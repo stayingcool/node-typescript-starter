@@ -1,0 +1,17 @@
+
+# dependencies
+node_modules/
+dist/
+
+# misc
+.DS_Store
+
+# environment variables for local development
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/.idea
+.vscode/
