@@ -1,4 +1,5 @@
 # Node with Typescript
+Simple typescript & node.js starter project.
 
 ## Pre-req
 - Node
