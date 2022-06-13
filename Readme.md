@@ -10,11 +10,31 @@
 - Dotenv
 
 ## Setup
-Clone the project
+**Clone:**
 ```
 git clone 
-yarn install
-yarn install nodemon
+```
+**Install packages:**
+```
+yarn install 
+or 
+npm install
+```
+
+## Build
+Build the project:
+```
+yarn build
+or
+npm run build
+```
+
+## Compile (Watch mode)
+> Keep compiling typescript in watch mode:
+```
+yarn start
+or
+npm start
 ```
 
 ## Run the project
@@ -23,11 +43,6 @@ nodemon
 ```
 It builds the project and runs the entry point and watches the changes and keeps repeating.
 
-## Compile (Watch mode)
-> Just keep compiling typescript (In watch mode):
-```
-yarn build
-yarn start
-```
+
 
 
