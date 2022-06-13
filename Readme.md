@@ -1,7 +1,7 @@
 # Node with Typescript
 
 ## Pre-req
-- Node 16 
+- Node
 - nodemon (`yarn global add nodemon`)
 
 ## Configuration & tools
